@@ -4,5 +4,3 @@ if name:
     print(f"Hello, {name, lastname}!")
 else:
     print("Hello, World")
-if name == "Ilya":
-    print("Have a nice day!")
